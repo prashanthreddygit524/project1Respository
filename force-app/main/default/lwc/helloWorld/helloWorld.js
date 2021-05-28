@@ -1,4 +1,4 @@
-import { LightningElement } from 'lwc';
+import { LightningElement } hhhfrom 'lwc';
 export default class HelloWorld extends LightningElement {
   greeting = 'Trail togetehr';
   changeHandler(event) {
