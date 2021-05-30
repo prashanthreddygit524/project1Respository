@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>ligtComp1</members>
+    <members>lwcComponent1Created</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Home_Page_Default</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>dataObject__c-dataObject Layout</members>
+  </types>
+  <types>
+    <name>LightningComponentBundle</name>
+    <members>testLightning</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>dataObject__c</members>
+  </types>
+  <types>
+    <name>ListView</name>
+    <members>dataObject__c.All</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>dataObject__c</members>
+  </types>
+  <version>51.0</version>
+</Package>
