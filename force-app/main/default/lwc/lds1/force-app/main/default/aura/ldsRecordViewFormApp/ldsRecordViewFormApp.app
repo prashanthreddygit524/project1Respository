@@ -1,3 +1,3 @@
 <aura:application>
-    <c:ldsRecordViewForm />
+    <c:ldsRecordViewForm rrr/>
 </aura:application>	
