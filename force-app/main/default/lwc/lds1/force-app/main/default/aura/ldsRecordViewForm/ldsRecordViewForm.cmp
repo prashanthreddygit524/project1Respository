@@ -1,0 +1,15 @@
+<aura:component>
+    <lightning:recordViewForm recordId="0010R00001ADNzYQAX" objectApiName="Account" >
+<div class="slds-grid">
+    <lightning:outputField fieldName="Name" />
+
+</div>
+<div class="slds-grid">
+    <lightning:outputField fieldName="Industry" />
+</div>
+
+
+
+
+    </lightning:recordViewForm>
+</aura:component>	
